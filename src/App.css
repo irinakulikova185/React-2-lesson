@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 800px;
+  margin: 0 auto 100px auto;
+}
+.App li {
+  list-style-type: none;
+}
+.component {
+  display: flex;
+  flex-direction: column; 
+  align-items:center 
+}
